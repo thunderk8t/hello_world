@@ -1,0 +1,1 @@
+read: https://cbea.ms/git-commit/ - the seven rules of a great git commit message
